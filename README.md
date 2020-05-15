@@ -14,18 +14,18 @@ Start by either downloading the zip file or clone with HTTPS.
 
 ## Built With
 
-   [Paper.js] (https://github.com/paperjs/paper.js/issues) - Vector Graphics Scripting
-   [Howler.js] (https://github.com/goldfire/howler.js/tree/master/examples) - Javascript audio library
-   [Javascript] (https://www.javascript.com/) 
-   [jQuery] (https://jquery.com/) 
-   [HTML] (https://www.html.com/) - Standard markup language
-   [CSS] (https://css.com) - Style sheet language
+   [Paper.js] (https://github.com/paperjs/paper.js/issues) - Vector Graphics Scripting.
+   [Howler.js] (https://github.com/goldfire/howler.js/tree/master/examples) - Javascript audio library.
+   [Javascript] (https://www.javascript.com/).
+   [jQuery] (https://jquery.com/).
+   [HTML] (https://www.html.com/).
+   [CSS] (https://css.com).
 
  
 
-## Authors
+## Author
 
-   Mithil Gaonkar()
+   Mithil Gaonkar
 
 ## License
 
